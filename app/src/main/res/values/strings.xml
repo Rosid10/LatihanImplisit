@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Implisit Intent</string>
+    <string name="edittext_uri">http://Youtube.com</string>
+    <string name="button_uri">Open Website</string>
+    <string name="edittext_loc">BSD Square Tangerang</string>
+    <string name="button_loc">Open Location</string>
+    <string name="edittext_share">\Hallo, Saya Bang ocid !!</string>
+    <string name="button_share">Share This Text</string>
+</resources>
